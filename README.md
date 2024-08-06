@@ -1,1 +1,2 @@
 # reactViajens
+Nas aulas abordadas, exploramos o desenvolvimento de um aplicativo de viagens usando React. Discutimos a criação e uso de componentes, props, estados e o ciclo de vida dos mesmos. O aplicativo inclui destinos pré-cadastrados que os usuários podem selecionar. A lógica envolve calcular a distância entre os destinos e o custo da viagem com base na distância e outras variáveis, como o tipo de transporte e o custo por unidade de distância.
